@@ -6,3 +6,8 @@ This project focuses on predicting the breed of a dog using image classification
 - 📦 **Convolutional Neural Network (CNN)**
 - 🧠 **Support Vector Machine (SVM)**
 
+
+Kaggle 
+Dataset URL: https://www.kaggle.com/datasets/catherinehorng/dogbreedidfromcomp
+
+
